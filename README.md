@@ -20,11 +20,11 @@ August 2025: Start Programming
 March 2026: Participate a Hack-a-thon; Get a second prize.
 
 ### What I made
-- Mini Shell: A mini shell implementing easy commands such as ls, cd, echo.
+- Mock Social Media: A mock social media having basic functionalties with Google OAuth authentication.
+- Mini Shell: A mini shell with the implementation of pipe operator.
 - Go Performance Experiment: Experiment of SQLite's performance using a simple API and `hey`(load testing library).
 - GitRamen: A typing game aiming that Git beginners can get used to Git commands faster.
 - Dining Dollars Tracker: A program that scrapes the history of dining dollars usage and analyzes it.
-- Kaima: A Social Network App where the users can see others' dialies.
 
 ## Japanese
 ### 経歴
@@ -32,11 +32,11 @@ March 2026: Participate a Hack-a-thon; Get a second prize.
 2026年3月: 技育CAMPハッカソンにて優秀賞受賞。
 
 ### 作ったもの
-- Mini Shell: `ls`, `cd`, `echo` など、簡単なコマンドを実行できるシェル。
+- Mock SNS: 簡易的なSNSを模したもの。Google OAuthを利用した認証フロー・ミドルウェアに力を入れた。
+- Mini Shell: 簡易的なシェル。パイプ演算子実装済。
 - Go Performance  Experiment: シンプルなAPIと負荷実験ライブラリ `hey` を利用して、SQLiteに関するパフォーマンスの考察を行なって文章にまとめた。
 - GitRamen: Git初心者に向け、ラーメン調理過程をGitコマンドに対応させたタイピングゲームを作成した。ハッカソン受賞作。
 - Dining Dollars Tracker: アメリカの大学ではしばしば Dining Dollars なる、用途が大学内のレストランに限られたお金が配られることがある。その使用履歴をスクレイピングし、分析するツールを開発した。
-- Kaima: 完全匿名下で、他の人の日記を見ることができるSNSアプリ。
 
 
 
